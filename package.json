@@ -1,0 +1,23 @@
+{
+  "name": "jsrestaurant",
+  "version": "1.0.0",
+  "description": "Resteraunt Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianh65/Restaurant-website.git"
+  },
+  "author": "Julian Hunt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianh65/Restaurant-website/issues"
+  },
+  "homepage": "https://github.com/julianh65/Restaurant-website#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
